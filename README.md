@@ -1,9 +1,5 @@
 # keynoteCDX
 
-=============
-== keyClip ==
-=============
-
 Copyright (c) 2020 Mark A. Maskeri (see LICENSE)
 
 Extracts ChemDraw CDX data embedded in Keynote documents; complementary to keyClip utility.
