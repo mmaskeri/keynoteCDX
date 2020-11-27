@@ -2,7 +2,7 @@
 
 echo ""
 echo "======================================"
-echo "=== Old Keynote -> CDX Last Resort ==="
+echo "===  Keynote -> CDX; .pict format  ==="
 echo "===          2020 Maskeri          ==="
 echo "======================================"
 echo ""
